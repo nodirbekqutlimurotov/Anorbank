@@ -1,9 +1,10 @@
 import React from 'react';
+import Home from './components/Home';
 
 function App() {
   return (
     <div className="Wrapper">
-      date(21.09.2022)
+      <Home/>
     </div>
   );
 }
